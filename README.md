@@ -1,10 +1,5 @@
 # Hi, I'm Araafath S 👋
 
-<div align="center">
-  <img src="<img width="1024" height="601" alt="WhatsApp Image 2026-08-12 at 9 58 17 PM" src="https://github.com/user-attachments/assets/7a7662d0-3023-4d0f-8813-e09e9d72bd5c" />
-" alt="Professional Banner" width="100%" style="border-radius: 8px; margin-bottom: 20px;">
-</div>
-
 **AI & Data Science Student | Full-Stack Developer | Building AI-Powered Solutions**
 
 Welcome to my GitHub profile. I'm passionate about leveraging artificial intelligence, machine learning, and modern full-stack development to create practical, scalable solutions that solve real-world problems. I'm driven by curiosity, continuous learning, and the challenge of building systems that are both intelligent and user-centric.
