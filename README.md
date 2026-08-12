@@ -4,9 +4,9 @@
 
 # Hi, I'm Araafath S 👋
 
-**AI & Data Science Student | Full-Stack Developer | Building AI-Powered Solutions**
+**AI & Machine Learning Student | Cloud and Devops Learner | Full-Stack Developer | Building AI-Powered Solutions**
 
-Welcome to my GitHub profile. I'm passionate about leveraging artificial intelligence, machine learning, and modern full-stack development to create practical, scalable solutions that solve real-world problems. I'm driven by curiosity, continuous learning, and the challenge of building systems that are both intelligent and user-centric.
+Welcome to my GitHub profile. I'm passionate about leveraging artificial intelligence, machine learning, cloud, devops and modern full-stack development to create practical, scalable solutions that solve real-world problems. I'm driven by curiosity, continuous learning, and the challenge of building systems that are both intelligent and user-centric.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=araafaths-collab0786&color=7B2CBF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
