@@ -1,7 +1,8 @@
 # Hi, I'm Araafath S 👋
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/araafaths-collab0786/araafaths_collab0786/main/profile-banner.jpg" alt="Professional Banner" width="100%" style="border-radius: 8px; margin-bottom: 20px;">
+  <img src="<img width="1024" height="601" alt="WhatsApp Image 2026-08-12 at 9 58 17 PM" src="https://github.com/user-attachments/assets/7a7662d0-3023-4d0f-8813-e09e9d72bd5c" />
+" alt="Professional Banner" width="100%" style="border-radius: 8px; margin-bottom: 20px;">
 </div>
 
 **AI & Data Science Student | Full-Stack Developer | Building AI-Powered Solutions**
@@ -41,7 +42,7 @@ An AI-powered platform that optimizes the allocation of resources and volunteers
 
 **Tech Stack:** Next.js • TypeScript • Tailwind CSS • Firebase • Firestore • PostgreSQL • Gemini API • Node.js • Mapbox/Leaflet
 
-[🔗 Repository](https://github.com/araafaths-collab0786/relievSync-ai) • [🚀 Live Demo](https://relievsync.vercel.app)
+[🔗 Repository](https://github.com/araafaths-collab0786/RelievSync-AI) • [🚀 Live Demo](https://reliefsync-ai0786.vercel.app/)
 
 ---
 
@@ -56,14 +57,6 @@ An end-to-end platform combining machine learning for demand forecasting, invent
 
 ---
 
-### 🔹 Music Streaming Platform
-**Modern full-stack music streaming application with premium UI**
-
-A feature-rich music streaming service with user authentication, playlist management, and a polished, responsive interface.
-
-**Tech Stack:** React • Node.js • Firebase • Tailwind CSS • RESTful APIs
-
-[🔗 Repository](https://github.com/araafaths-collab0786/music-streaming-platform) • [🚀 Live Demo](https://music-streaming-app.vercel.app)
 
 ---
 
@@ -74,18 +67,10 @@ A lightweight, well-documented SDK designed to simplify integration workflows fo
 
 **Tech Stack:** JavaScript • TypeScript • Node.js
 
-[🔗 Repository](https://github.com/araafaths-collab0786/phaelitus-sdk) • [📦 NPM Package](https://www.npmjs.com/package/phaelitus-sdk)
+[🔗 Repository](https://github.com/araafaths-collab0786/Phaelitus-SDK) • [📦 NPM Package](https://phaelitus-sdk-806168011637.us-west1.run.app/)
 
 ---
 
-### 🔹 LangAIthon
-**Multilingual AI chat application**
-
-A language-agnostic AI chatbot supporting multiple languages with natural language processing and intelligent responses.
-
-**Tech Stack:** Python • NLP • Hugging Face • Flask • React
-
-[🔗 Repository](https://github.com/araafaths-collab0786/langaithon)
 
 ---
 
@@ -159,9 +144,8 @@ A language-agnostic AI chatbot supporting multiple languages with natural langua
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/araafaths-collab0786)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/araafath-s-7a0786-cse)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:araafaths309@gmail.com)
 
 </div>
 
