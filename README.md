@@ -117,7 +117,30 @@ A lightweight, well-documented SDK designed to simplify integration workflows fo
 
 ---
 
+## 🤖 AI Tools & Platforms
+ 
+I actively use cutting-edge AI tools to enhance development, research, and problem-solving:
+ 
+![Claude](https://img.shields.io/badge/Claude-3776AB?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
+![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
+![Stitch](https://img.shields.io/badge/Stitch-1A1A1A?style=flat-square&logo=talend&logoColor=white)
+ 
+**How I use them:**
+- **Claude** – Advanced reasoning, code generation, and in-depth analysis
+- **ChatGPT** – Natural language processing, brainstorming, and content generation
+- **Gemini** – Multi-modal AI capabilities and research
+- **Google AI Studio** – Rapid prototyping and API experimentation
+- **Stitch** – Data pipeline integration and ETL workflows
+---
+ 
 ## 🔄 Development Workflow
+ 
+```
+Problem Understanding → Research & Planning → System/UI Design → 
+Development → AI/API Integration → Testing → Deployment → Continuous Improvement
+```
 
 ---
 
