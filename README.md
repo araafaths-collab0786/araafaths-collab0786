@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero_banner.gif" width="100%" alt="Dark Wolf Banner" />
+  <img src="WhatsApp Image 2026-08-12 at 9.58.17 PM.jpeg" width="100%" alt="Dark Wolf Banner" />
 </div>
 
 # Hi, I'm Araafath S 👋
