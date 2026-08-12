@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="WhatsApp Image 2026-08-12 at 9.58.17 PM.jpeg" width="100%" alt="Dark Wolf Banner" />
+  <img src="WhatsApp Image 2026-08-12 at 9.58.17 PM.jpeg" width="100%" alt=" Dark Wolf Banner " />
 </div>
 
 # Hi, I'm Araafath S 👋
@@ -19,7 +19,7 @@ Welcome to my GitHub profile. I'm passionate about leveraging artificial intelli
 
 ## 🎯 About Me
 
-I'm a Computer Science / AI & Data Science engineering student with a strong foundation in full-stack development and artificial intelligence. My journey has been centered around understanding how to bridge the gap between complex ML algorithms and user-friendly applications. I thrive on building end-to-end solutions—from data processing and model development to deployment and UI/UX refinement.
+I'm a Computer Science / AI & Machine Learning engineering student with a strong foundation in full-stack development and artificial intelligence. My journey has been centered around understanding how to bridge the gap between complex ML algorithms and user-friendly applications. I thrive on building end-to-end solutions—from data processing and model development to deployment and UI/UX refinement.
 
 I believe great software is built through:
 - **Problem-first thinking** – understanding real needs before coding
@@ -162,7 +162,8 @@ Development → AI/API Integration → Testing → Deployment → Continuous Imp
 
 - 💡 Built end-to-end AI solutions from ideation to deployment
 - 🎯 Passionate contributor to open-source and learning communities
-- 🚀 [ADD YOUR HACKATHON WINS, CERTIFICATIONS, OR AWARDS HERE]
+- 📜 Certified - India AI Impact Hackathon, HCL GUVI
+- 📜 Certified - Zscaler Zero Trust Cloud Security Virtual Internship, Zscaler
 
 *Note: Add verified hackathon wins, certifications, or achievements as they're completed.*
 
@@ -173,7 +174,7 @@ Development → AI/API Integration → Testing → Deployment → Continuous Imp
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/araafaths-collab0786)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/araafath-s-7a0786-cse)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/araafath-s-7a0786-cse)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:araafaths309@gmail.com)
 
 </div>
