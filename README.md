@@ -9,11 +9,10 @@
 Welcome to my GitHub profile. I'm passionate about leveraging artificial intelligence, machine learning, and modern full-stack development to create practical, scalable solutions that solve real-world problems. I'm driven by curiosity, continuous learning, and the challenge of building systems that are both intelligent and user-centric.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hariharan152578&color=7B2CBF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=araafaths-collab0786&color=7B2CBF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/hariharan152578?style=for-the-badge&logo=github&color=0077B6&label=FOLLOWERS" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/araafaths-collab0786?style=for-the-badge&logo=github&color=0077B6&label=FOLLOWERS" alt="Followers" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Founder-Orgininfo-00B4D8?style=for-the-badge&logo=rocket&logoColor=white" />
 </p>
 
 ---
